@@ -1,1 +1,1 @@
-echo "$(date)"
+echo "Running Build: $(date)"
